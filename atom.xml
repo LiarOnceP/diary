@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>猫猫的日记</title>
+  
+  <subtitle>Neko 平时都在想什么呢？</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://diary.ayaka.moe/"/>
+  <updated>2017-12-23T16:22:04.000Z</updated>
+  <id>https://diary.ayaka.moe/</id>
+  
+  <author>
+    <name>絢香猫</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>第一页</title>
+    <link href="https://diary.ayaka.moe/2017/intro/"/>
+    <id>https://diary.ayaka.moe/2017/intro/</id>
+    <published>2017-12-23T16:22:04.000Z</published>
+    <updated>2017-12-23T16:22:04.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>喵 /<br>算是日记本里面的第一页</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;喵 /&lt;br&gt;算是日记本里面的第一页&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+      <category term="纪念" scheme="https://diary.ayaka.moe/categories/%E7%BA%AA%E5%BF%B5/"/>
+    
+    
+      <category term="纪念" scheme="https://diary.ayaka.moe/tags/%E7%BA%AA%E5%BF%B5/"/>
+    
+  </entry>
+  
+</feed>
