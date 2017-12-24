@@ -3,9 +3,12 @@
   
     
     <entry>
-      <title><![CDATA[第一页]]></title>
-      <url>/2017/intro/</url>
-      <content type="html"><![CDATA[<p>喵 /<br>算是日记本里面的第一页</p>
+      <title><![CDATA[第〇页]]></title>
+      <url>/2017/P0/</url>
+      <content type="html"><![CDATA[<p>第一页里面有什么呀？</p>
+<p>一般都是往手账的小本子里面画画，画好多可爱的东西当做封面一样的东西。<br>不过想要在页面上贴上自己的画…可能需要重新给 Hexo 写个主题了呢（啊呜啊呜，有点偏题啦</p>
+<a id="more"></a>
+<p>呐呐，那就往第一页里面放一张喜欢的 Pixiv 作品当做是绘画吧w<br>如果以后有机会自己制作的话，一定会做一个日记本风格的主题的呢w</p>
 ]]></content>
       
         <categories>
@@ -18,6 +21,29 @@
         <tags>
             
             <tag> 纪念 </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[第一页 封面]]></title>
+      <url>/2017/P1/</url>
+      <content type="html"><![CDATA[<p><img src="https://i.pximg.net/img-original/img/2014/10/08/20/40/27/46429552_p0.jpg" alt=""></p>
+]]></content>
+      
+        <categories>
+            
+            <category> 纪念 </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> 纪念 </tag>
+            
+            <tag> 封面 </tag>
             
         </tags>
         
