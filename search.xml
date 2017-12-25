@@ -3,11 +3,31 @@
   
     
     <entry>
+      <title><![CDATA[是圣诞节]]></title>
+      <url>/2017/P2/</url>
+      <content type="html"><![CDATA[<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="86" src="//music.163.com/outchain/player?type=2&id=465892666&auto=0&height=66"></iframe>
+]]></content>
+      
+        <categories>
+            
+            <category> 日记 </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> 圣诞节 </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
       <title><![CDATA[第〇页]]></title>
       <url>/2017/P0/</url>
       <content type="html"><![CDATA[<p>第一页里面有什么呀？</p>
 <p>一般都是往手账的小本子里面画画，画好多可爱的东西当做封面一样的东西。<br>不过想要在页面上贴上自己的画…可能需要重新给 Hexo 写个主题了呢（啊呜啊呜，有点偏题啦</p>
-<a id="more"></a>
 <p>呐呐，那就往第一页里面放一张喜欢的 Pixiv 作品当做是绘画吧w<br>如果以后有机会自己制作的话，一定会做一个日记本风格的主题的呢w</p>
 ]]></content>
       
@@ -20,7 +40,7 @@
         
         <tags>
             
-            <tag> 纪念 </tag>
+            <tag> 封面 </tag>
             
         </tags>
         
@@ -40,8 +60,6 @@
         
         
         <tags>
-            
-            <tag> 纪念 </tag>
             
             <tag> 封面 </tag>
             
